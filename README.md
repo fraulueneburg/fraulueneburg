@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I’m Wiebke, freelance Full Stack Web Developer and UI/UX designer 👋
 
 <!--
 **fraulueneburg/fraulueneburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
