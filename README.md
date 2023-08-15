@@ -1,4 +1,6 @@
-### Hi there. I’m Wiebke, freelance Full Stack Web Developer and UI/UX designer 👋
+### Hi there.
+I’m Wiebke, freelance Full Stack Web Developer and UI/UX designer 👋
+Take a look at my projects:
 
 <!--
 **fraulueneburg/fraulueneburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
