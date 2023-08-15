@@ -1,5 +1,6 @@
 ### Hi there.
-I’m Wiebke, freelance Full Stack Web Developer and UI/UX designer 👋
+---
+I’m Wiebke, a Full Stack Web Developer and UI/UX designer 👋
 Take a look at my projects:
 
 <!--
