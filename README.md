@@ -1,4 +1,4 @@
-### Hi there.
+## Hi there.
 I’m Wiebke, a Full Stack Web Developer and UI/UX designer 👋
 Take a look at my projects:
 
