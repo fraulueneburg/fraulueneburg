@@ -1,7 +1,13 @@
 ## Hi there.
 I’m Wiebke, a Full Stack Web Developer and UI/UX designer 👋  
-Have a look at my projects below 👇  
-and don’t forget to [connect with me on LinkedIn](https://www.linkedin.com/in/fraulueneburg/)
+The web has amazed ever since I typed my first lines of HTML on my family’s 1024×768 computer screen in the 90s. Having been in the industry for 15+ years now, the excitement hasn’t stopped. Looking for a new challenge in 2023, I recently made the switch from Frontend to Full Stack. While I am primarily focusing on Development work right now, UI/UX still remains close to my heart.  
+
+Building amazing easy-to-use products that add value to their users’ lives, is what I love most.  
+I have always had a large focus on usability and am also strongly advocating for (and keep learning about) web accessibility.
+
+👇 Have a look at my projects below  
+
+… also, don’t forget to [connect with me on LinkedIn](https://www.linkedin.com/in/fraulueneburg/)
 
 <!--
 **fraulueneburg/fraulueneburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
