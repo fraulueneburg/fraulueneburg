@@ -5,7 +5,7 @@ The web has amazed ever since I typed my first lines of HTML on my family’s 10
 
 Usability is a top priority in my work and I am also strongly advocating for (and keep learning about) web accessibility.
 
-👇 Have a look at my projects below. And hey, [let’s connect on LinkedIn](https://www.linkedin.com/in/fraulueneburg/)
+Have a look at my projects below. 👇 And hey, [let’s connect on LinkedIn](https://www.linkedin.com/in/fraulueneburg/)
 
 <!--
 **fraulueneburg/fraulueneburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
