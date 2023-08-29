@@ -1,7 +1,7 @@
 ## Hi there.
 I’m Wiebke, a Full Stack Web Developer and UI/UX designer 👋  
 
-The web has amazed ever since I typed my first lines of HTML on my family’s 1024×768 computer screen in the 90s. After 15+ years in the industry, the excitement hasn’t stopped. While I am primarily focusing on Full Stack Development right now (MERN, React, etc.), UI/UX remains close to my heart.  
+The web has amazed me ever since I typed my first lines of HTML on the family’s 1024×768 computer screen in the 90s. After 15+ years in the industry, the excitement hasn’t stopped. While I am primarily focusing on Full Stack Development right now (MERN, React, etc.), UI/UX Design remains close to my heart.  
 
 Usability is a top priority in my work and I am also strongly advocating for (and keep learning about) web accessibility.
 
