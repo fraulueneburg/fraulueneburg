@@ -7,14 +7,10 @@ Usability is a top priority in my work and I am also strongly advocating for (an
 Have a look at my projects below. And hey, [let’s connect on LinkedIn.](https://www.linkedin.com/in/fraulueneburg/)
 
 ### My skills:
-<img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=f5f5f5" alt="React">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=f5f5f5" alt="NodeJS">
-<img src="https://img.shields.io/badge/mongodb-red?style=for-the-badge&logo=mongodb&logoColor=f5f5f5" alt="MongoDB">
-<img src="https://img.shields.io/badge/express-666c75?style=for-the-badge&logo=express&logoColor=f5f5f5" alt="Express">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=f5f5f5" alt="CSS">
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=f5f5f5" alt="HTML">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=f5f5f5" alt="CSS">
+<img src="https://img.shields.io/badge/react-1572B6?style=for-the-badge&logo=react&logoColor=f5f5f5" alt="React"> <img src="https://img.shields.io/badge/node.js-238636?style=for-the-badge&logo=nodedotjs&logoColor=f5f5f5" alt="NodeJS"> <img src="https://img.shields.io/badge/mongodb-238636?style=for-the-badge&logo=mongodb&logoColor=f5f5f5" alt="MongoDB">
+<img src="https://img.shields.io/badge/express-666c75?style=for-the-badge&logo=express&logoColor=f5f5f5" alt="Express">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=f5f5f5" alt="Javascript"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=f5f5f5" alt="HTML"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=f5f5f5" alt="CSS">
 
+### Let’s connect:
 <a href="https://linkedin.com/in/fraulueneburg" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 </a>
