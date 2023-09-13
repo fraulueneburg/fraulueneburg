@@ -4,7 +4,7 @@ The web has amazed me ever since I typed my first lines of HTML on the family’
 
 Usability is a top priority in my work and I am also strongly advocating for (and keep learning about) web accessibility.
 
-Have a look at my projects below. And hey, [let’s connect on LinkedIn.](https://www.linkedin.com/in/fraulueneburg/)
+Have a look at my projects below. And hey, [let’s connect on LinkedIn.](https://www.linkedin.com/in/fraulueneburg/)<br />
 <a href="https://linkedin.com/in/fraulueneburg" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 </a>
