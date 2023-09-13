@@ -5,6 +5,9 @@ The web has amazed me ever since I typed my first lines of HTML on the family’
 Usability is a top priority in my work and I am also strongly advocating for (and keep learning about) web accessibility.
 
 Have a look at my projects below. And hey, [let’s connect on LinkedIn.](https://www.linkedin.com/in/fraulueneburg/)
+<a href="https://linkedin.com/in/fraulueneburg" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+</a>
 
 ### My skills:
 <img src="https://img.shields.io/badge/react-1572B6?style=for-the-badge&logo=react&logoColor=f5f5f5" alt="React"> <img src="https://img.shields.io/badge/node.js-238636?style=for-the-badge&logo=nodedotjs&logoColor=f5f5f5" alt="NodeJS"> <img src="https://img.shields.io/badge/mongodb-238636?style=for-the-badge&logo=mongodb&logoColor=f5f5f5" alt="MongoDB">
