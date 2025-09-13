@@ -2,9 +2,9 @@
 
 The web has amazed me ever since I typed my first lines of HTML on a 1024×768 screen in the 90s. And the excitement hasn’t stopped ever since. While I have recently transitioned to Full Stack Development (MERN, React, etc.), UI/UX Design remains close to my heart. Usability is a top priority in my work and I am also strongly advocating for (and keep learning about) web accessibility.
 
-- I’m currently finishing [sortof – the todo app to organize the now](https://github.com/fraulueneburg/sortof)
-- My latest project is [thatCalendar – the timeboxing app that will blow your mind](https://github.com/fraulueneburg/thatcalendar-fe)
-- … and of you feel like something fun, check out [the fab five game](https://github.com/fraulueneburg/fab-five-game), first for its addictive character, then for it’s clever use of SVGs and CSS custom properties
+- 🧑‍💻 I’m currently finishing [sortof – the todo app to organize the now](https://github.com/fraulueneburg/sortof)
+- 📗 My latest project is [thatCalendar – the timeboxing app that will blow your mind](https://github.com/fraulueneburg/thatcalendar-fe)
+- 👻 … and of you feel like something fun, check out [the fab five game](https://github.com/fraulueneburg/fab-five-game), first for its addictive character, then for it’s clever use of SVGs and CSS custom properties
 
 You can find all of these and more projects below. Oh, and let’s not forget to [connect on LinkedIn.](https://www.linkedin.com/in/fraulueneburg/).
 
