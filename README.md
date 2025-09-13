@@ -1,13 +1,12 @@
 ## Hi there. <br />I’m Wiebke, a Full Stack Web Developer and UI/UX designer 👋  
 
-The web has amazed me ever since I typed my first lines of HTML on a 1024×768 screen in the 90s. And the excitement hasn’t stopped ever since. While I have recently transitioned to Full Stack Development (MERN, React, etc.), UI/UX Design remains close to my heart.
+The web has amazed me ever since I typed my first lines of HTML on a 1024×768 screen in the 90s. And the excitement hasn’t stopped ever since. While I have recently transitioned to Full Stack Development (MERN, React, etc.), UI/UX Design remains close to my heart. Usability is a top priority in my work and I am also strongly advocating for (and keep learning about) web accessibility.
 
-Usability is (and always has been) a top priority in my work and I am also strongly advocating for (and keep learning about) web accessibility.
+- I’m currently finishing [sortof, a todo app to organize the now](https://github.com/fraulueneburg/sortof)
+- My latest project is [thatCalendar, the timeboxing app that will blow your mind](https://github.com/fraulueneburg/thatcalendar-fe)
+- … and of you feel like something fun, check out [the fab five game](https://github.com/fraulueneburg/fab-five-game), first for its addictive character, then for it’s clever use of SVGs and CSS custom properties
 
-Have a look at my projects below. And hey, [let’s connect on LinkedIn.](https://www.linkedin.com/in/fraulueneburg/):<br />
-<a href="https://linkedin.com/in/fraulueneburg" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
-</a>
+You can find all of these and more projects below. Oh, and let’s not forget to [connect on LinkedIn.](https://www.linkedin.com/in/fraulueneburg/).
 
 ### My skills:
 <img src="https://img.shields.io/badge/react-1572B6?style=for-the-badge&logo=react&logoColor=f5f5f5" alt="React"> <img src="https://img.shields.io/badge/node.js-238636?style=for-the-badge&logo=nodedotjs&logoColor=f5f5f5" alt="NodeJS"> <img src="https://img.shields.io/badge/mongodb-238636?style=for-the-badge&logo=mongodb&logoColor=f5f5f5" alt="MongoDB">
